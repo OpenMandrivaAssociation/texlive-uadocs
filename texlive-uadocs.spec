@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-uadocs
 Version:	1.1
-Release:	2
+Release:	3
 Summary:	Course texts and masters theses in University of Antwerp style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uadocs
