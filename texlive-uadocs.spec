@@ -9,7 +9,7 @@ Version:	1.1
 Release:	11
 Summary:	Course texts and masters theses in University of Antwerp style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uadocs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uadocs
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uadocs.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uadocs.doc.tar.xz
